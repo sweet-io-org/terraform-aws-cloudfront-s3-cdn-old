@@ -1,0 +1,11 @@
+.idea/
+/providers/aws/us_east_1_playground/terraform.tfvars
+/providers/aws/us_east_1_playground/.terraform/
+/providers/aws/us_east_1_playground/terraform.log
+/providers/aws/us_east_1_staging/.terraform/
+/providers/aws/us_east_1_production/.terraform/
+/providers/aws/us_east_1_production/terraform.tfvars
+/providers/aws/us_east_1_playground/tfvars-gen.sh
+/providers/aws/us_east_1_production/tfvars-gen.sh
+/providers/aws/us_east_1_staging/tfvars-gen.sh
+/providers/aws/us_east_1_staging/terraform.tfvars
